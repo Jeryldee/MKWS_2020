@@ -1,0 +1,14 @@
+\contentsline {section}{\numberline {1}Introduction}{2}%
+\contentsline {section}{\numberline {2}Mathematical model}{3}%
+\contentsline {section}{\numberline {3}Code}{4}%
+\contentsline {section}{\numberline {4}Results}{10}%
+\contentsline {subsection}{\numberline {4.1}Methane - air mixture}{10}%
+\contentsline {subsection}{\numberline {4.2}Ethane - air mixture}{13}%
+\contentsline {subsection}{\numberline {4.3}Propane - air mixture}{15}%
+\contentsline {subsection}{\numberline {4.4}Hydrogen - air mixture}{18}%
+\contentsline {subsection}{\numberline {4.5}Methane (1 mol) - ethane (0.4 mol) - air mixture}{20}%
+\contentsline {subsection}{\numberline {4.6}Methane (2 mol) - propane (1 mol) - air mixture}{23}%
+\contentsline {subsection}{\numberline {4.7}Ethane (1 mol) - hydrogen (0.5 mol) - air mixture}{26}%
+\contentsline {subsection}{\numberline {4.8}Propane (1 mol) - hydrogen (0.1 mol) - air mixture}{29}%
+\contentsline {subsection}{\numberline {4.9}Methane (1 mol) - ethane (0.4 mol) - propane (0.2 mol) - air mixture}{32}%
+\contentsline {section}{\numberline {5}Summary}{35}%

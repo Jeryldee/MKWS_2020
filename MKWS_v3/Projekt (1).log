@@ -1,0 +1,741 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7300 64-bit) (preloaded format=pdflatex 2020.3.14)  2 JUN 2020 18:01
+entering extended mode
+**"./Projekt (1).tex"
+("Projekt (1).tex"
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06>
+("C:\Users\patry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\article.cls"
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+("C:\Users\patry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size11.clo"
+File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+)
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
+)
+("C:\Users\patry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\indentfirst.
+sty"
+Package: indentfirst 1995/11/23 v1.03 Indent first paragraph (DPC)
+)
+("C:\Users\patry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.
+sty"
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\patry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.st
+y"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Users\patry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.
+sty"
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\patry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\patry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graph
+ics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\patry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdfte
+x.def"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen135
+\Gin@req@width=\dimen136
+)
+("C:\Users\patry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\subcaption
+.sty"
+Package: subcaption 2020/01/22 v1.3d Sub-captions (AR)
+
+("C:\Users\patry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption.st
+y"
+Package: caption 2020/01/03 v3.4h Customizing captions (AR)
+
+("C:\Users\patry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/caption\caption3.s
+ty"
+Package: caption3 2020/01/03 v1.8h caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 61.
+\captionmargin=\dimen137
+\captionmargin@=\dimen138
+\captionwidth=\dimen139
+\caption@tempdima=\dimen140
+\caption@indent=\dimen141
+\caption@parindent=\dimen142
+\caption@hangindent=\dimen143
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count175
+\c@continuedfloat=\count176
+)
+\c@subfigure=\count177
+\c@subtable=\count178
+)
+("C:\Users\patry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count179
+\float@exts=\toks16
+\float@box=\box45
+\@float@everytoks=\toks17
+\@floatcapt=\box46
+)
+("C:\Users\patry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/chngcntr\chngcntr.
+sty"
+Package: chngcntr 2018/04/09 v1.1a change counter resetting
+Package chngcntr Info: \counterwithout already defined.
+(chngcntr)             Quitting chngcntr on input line 21.
+)
+("C:\Users\patry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tocloft\tocloft.st
+y"
+Package: tocloft 2017/08/31 v2.3i parameterised ToC, etc., typesetting
+Package tocloft Info: The document has section divisions on input line 51.
+\cftparskip=\skip49
+\cftbeforetoctitleskip=\skip50
+\cftaftertoctitleskip=\skip51
+\cftbeforepartskip=\skip52
+\cftpartnumwidth=\skip53
+\cftpartindent=\skip54
+\cftbeforesecskip=\skip55
+\cftsecindent=\skip56
+\cftsecnumwidth=\skip57
+\cftbeforesubsecskip=\skip58
+\cftsubsecindent=\skip59
+\cftsubsecnumwidth=\skip60
+\cftbeforesubsubsecskip=\skip61
+\cftsubsubsecindent=\skip62
+\cftsubsubsecnumwidth=\skip63
+\cftbeforeparaskip=\skip64
+\cftparaindent=\skip65
+\cftparanumwidth=\skip66
+\cftbeforesubparaskip=\skip67
+\cftsubparaindent=\skip68
+\cftsubparanumwidth=\skip69
+\cftbeforeloftitleskip=\skip70
+\cftafterloftitleskip=\skip71
+\cftbeforefigskip=\skip72
+\cftfigindent=\skip73
+\cftfignumwidth=\skip74
+\c@lofdepth=\count180
+\c@lotdepth=\count181
+\cftbeforelottitleskip=\skip75
+\cftafterlottitleskip=\skip76
+\cftbeforetabskip=\skip77
+\cfttabindent=\skip78
+\cfttabnumwidth=\skip79
+)
+("C:\Users\patry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.
+sty"
+\lst@mode=\count182
+\lst@gtempboxa=\box47
+\lst@token=\toks18
+\lst@length=\count183
+\lst@currlwidth=\dimen144
+\lst@column=\count184
+\lst@pos=\count185
+\lst@lostspace=\dimen145
+\lst@width=\dimen146
+\lst@newlines=\count186
+\lst@lineno=\count187
+\lst@maxwidth=\dimen147
+
+("C:\Users\patry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.s
+ty"
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count188
+\lst@skipnumbers=\count189
+\lst@framebox=\box48
+)
+("C:\Users\patry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.
+cfg"
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+
+("C:\Users\patry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/comment\comment.st
+y"
+\CommentStream=\write3
+ Excluding comment 'comment')
+("C:\Users\patry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/fancyhdr\fancyhdr.
+sty"
+Package: fancyhdr 2019/01/31 v3.10 Extensive control of page headers and footer
+s
+\f@nch@headwidth=\skip80
+\f@nch@O@elh=\skip81
+\f@nch@O@erh=\skip82
+\f@nch@O@olh=\skip83
+\f@nch@O@orh=\skip84
+\f@nch@O@elf=\skip85
+\f@nch@O@erf=\skip86
+\f@nch@O@olf=\skip87
+\f@nch@O@orf=\skip88
+)
+("C:\Users\patry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/l3backend\l3backen
+d-pdfmode.def"
+File: l3backend-pdfmode.def 2020-02-23 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count190
+\l__pdf_internal_box=\box49
+) ("Projekt (1).aux")
+\openout1 = `"Projekt (1).aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+
+("C:\Users\patry\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
+df.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count191
+\scratchdimen=\dimen148
+\scratchbox=\box50
+\nofMPsegments=\count192
+\nofMParguments=\count193
+\everyMPshowfont=\toks19
+\MPscratchCnt=\count194
+\MPscratchDim=\dimen149
+\MPnumerator=\count195
+\makeMPintoPDFobject=\count196
+\everyMPtoPDFconversion=\toks20
+)
+("C:\Users\patry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epsto
+pdf-base.sty"
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count197
+ [1
+
+{C:/Users/patry/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] ("Projekt (
+1).toc"
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 1.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 1.
+)
+\tf@toc=\write4
+\openout4 = `"Projekt (1).toc"'.
+
+ [1] [2]
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
+
+ []
+
+[3] [4]
+Overfull \hbox (7.92383pt too wide) in paragraph at lines 153--154
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (106.47485pt too wide) in paragraph at lines 158--159
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (119.61499pt too wide) in paragraph at lines 169--171
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[5] [6]
+Overfull \hbox (73.62451pt too wide) in paragraph at lines 241--242
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (60.48438pt too wide) in paragraph at lines 242--244
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (264.1565pt too wide) in paragraph at lines 248--249
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (93.33472pt too wide) in paragraph at lines 249--251
+[][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+LaTeX Font Info:    Trying to load font information for OML+cmr on input line 2
+65.
+("C:\Users\patry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omlcmr.fd"
+File: omlcmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OML/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OML/cmm/m/it' tried instead on input line 265.
+
+[7]
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 2
+77.
+ ("C:\Users\patry\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
+File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 277.
+
+Overfull \hbox (27.63403pt too wide) in paragraph at lines 277--278
+[][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (323.28711pt too wide) in paragraph at lines 305--306
+[][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][][
+][][][][][] 
+ []
+
+[8] [9]
+<metan_pow(1mol)/Temperature_over_Mach.png, id=47, 462.528pt x 346.896pt>
+File: metan_pow(1mol)/Temperature_over_Mach.png Graphic file (type png)
+<use metan_pow(1mol)/Temperature_over_Mach.png>
+Package pdftex.def Info: metan_pow(1mol)/Temperature_over_Mach.png  used on inp
+ut line 324.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+<metan_pow(1mol)/Thrust_over_Mach.png, id=49, 462.528pt x 346.896pt>
+File: metan_pow(1mol)/Thrust_over_Mach.png Graphic file (type png)
+<use metan_pow(1mol)/Thrust_over_Mach.png>
+Package pdftex.def Info: metan_pow(1mol)/Thrust_over_Mach.png  used on input li
+ne 329.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+<metan_pow(1mol)/Efficiency_over_Mach.png, id=50, 462.528pt x 346.896pt>
+File: metan_pow(1mol)/Efficiency_over_Mach.png Graphic file (type png)
+<use metan_pow(1mol)/Efficiency_over_Mach.png>
+Package pdftex.def Info: metan_pow(1mol)/Efficiency_over_Mach.png  used on inpu
+t line 334.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+ [10 <./metan_pow(1mol)/Temperature_over_Mach.png>]
+<metan_pow(1mol)/Thrust_over_mass_flow_rate_over_Mach.png, id=55, 462.528pt x 3
+46.896pt>
+File: metan_pow(1mol)/Thrust_over_mass_flow_rate_over_Mach.png Graphic file (ty
+pe png)
+<use metan_pow(1mol)/Thrust_over_mass_flow_rate_over_Mach.png>
+Package pdftex.def Info: metan_pow(1mol)/Thrust_over_mass_flow_rate_over_Mach.p
+ng  used on input line 339.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+<metan_pow(1mol)/Mass_flow_rate_over_Mach.png, id=56, 462.528pt x 346.896pt>
+File: metan_pow(1mol)/Mass_flow_rate_over_Mach.png Graphic file (type png)
+<use metan_pow(1mol)/Mass_flow_rate_over_Mach.png>
+Package pdftex.def Info: metan_pow(1mol)/Mass_flow_rate_over_Mach.png  used on 
+input line 344.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+ [11 <./metan_pow(1mol)/Thrust_over_Mach.png> <./metan_pow(1mol)/Efficiency_ove
+r_Mach.png>]
+<etan_pow(1mol)/Temperature_over_Mach.png, id=62, 462.528pt x 346.896pt>
+File: etan_pow(1mol)/Temperature_over_Mach.png Graphic file (type png)
+<use etan_pow(1mol)/Temperature_over_Mach.png>
+Package pdftex.def Info: etan_pow(1mol)/Temperature_over_Mach.png  used on inpu
+t line 350.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+<etan_pow(1mol)/Thrust_over_Mach.png, id=63, 462.528pt x 346.896pt>
+File: etan_pow(1mol)/Thrust_over_Mach.png Graphic file (type png)
+<use etan_pow(1mol)/Thrust_over_Mach.png>
+Package pdftex.def Info: etan_pow(1mol)/Thrust_over_Mach.png  used on input lin
+e 355.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+ [12 <./metan_pow(1mol)/Thrust_over_mass_flow_rate_over_Mach.png> <./metan_pow(
+1mol)/Mass_flow_rate_over_Mach.png>]
+<etan_pow(1mol)/Efficiency_over_Mach.png, id=70, 462.528pt x 346.896pt>
+File: etan_pow(1mol)/Efficiency_over_Mach.png Graphic file (type png)
+<use etan_pow(1mol)/Efficiency_over_Mach.png>
+Package pdftex.def Info: etan_pow(1mol)/Efficiency_over_Mach.png  used on input
+ line 360.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+<etan_pow(1mol)/Thrust_over_mass_flow_rate_over_Mach.png, id=71, 462.528pt x 34
+6.896pt>
+File: etan_pow(1mol)/Thrust_over_mass_flow_rate_over_Mach.png Graphic file (typ
+e png)
+<use etan_pow(1mol)/Thrust_over_mass_flow_rate_over_Mach.png>
+Package pdftex.def Info: etan_pow(1mol)/Thrust_over_mass_flow_rate_over_Mach.pn
+g  used on input line 365.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+ [13 <./etan_pow(1mol)/Temperature_over_Mach.png> <./etan_pow(1mol)/Thrust_over
+_Mach.png>]
+<etan_pow(1mol)/Mass_flow_rate_over_Mach.png, id=77, 462.528pt x 346.896pt>
+File: etan_pow(1mol)/Mass_flow_rate_over_Mach.png Graphic file (type png)
+<use etan_pow(1mol)/Mass_flow_rate_over_Mach.png>
+Package pdftex.def Info: etan_pow(1mol)/Mass_flow_rate_over_Mach.png  used on i
+nput line 370.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+ [14 <./etan_pow(1mol)/Efficiency_over_Mach.png> <./etan_pow(1mol)/Thrust_over_
+mass_flow_rate_over_Mach.png>]
+<propan_pow(1mol)/Temperature_over_Mach.png, id=83, 462.528pt x 346.896pt>
+File: propan_pow(1mol)/Temperature_over_Mach.png Graphic file (type png)
+<use propan_pow(1mol)/Temperature_over_Mach.png>
+Package pdftex.def Info: propan_pow(1mol)/Temperature_over_Mach.png  used on in
+put line 376.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+<propan_pow(1mol)/Thrust_over_Mach.png, id=84, 462.528pt x 346.896pt>
+File: propan_pow(1mol)/Thrust_over_Mach.png Graphic file (type png)
+<use propan_pow(1mol)/Thrust_over_Mach.png>
+Package pdftex.def Info: propan_pow(1mol)/Thrust_over_Mach.png  used on input l
+ine 381.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+<propan_pow(1mol)/Efficiency_over_Mach.png, id=85, 462.528pt x 346.896pt>
+File: propan_pow(1mol)/Efficiency_over_Mach.png Graphic file (type png)
+<use propan_pow(1mol)/Efficiency_over_Mach.png>
+Package pdftex.def Info: propan_pow(1mol)/Efficiency_over_Mach.png  used on inp
+ut line 386.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+ [15 <./etan_pow(1mol)/Mass_flow_rate_over_Mach.png> <./propan_pow(1mol)/Temper
+ature_over_Mach.png>]
+<propan_pow(1mol)/Thrust_over_mass_flow_rate_over_Mach.png, id=91, 462.528pt x 
+346.896pt>
+File: propan_pow(1mol)/Thrust_over_mass_flow_rate_over_Mach.png Graphic file (t
+ype png)
+<use propan_pow(1mol)/Thrust_over_mass_flow_rate_over_Mach.png>
+Package pdftex.def Info: propan_pow(1mol)/Thrust_over_mass_flow_rate_over_Mach.
+png  used on input line 391.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+<propan_pow(1mol)/Mass_flow_rate_over_Mach.png, id=92, 462.528pt x 346.896pt>
+File: propan_pow(1mol)/Mass_flow_rate_over_Mach.png Graphic file (type png)
+<use propan_pow(1mol)/Mass_flow_rate_over_Mach.png>
+Package pdftex.def Info: propan_pow(1mol)/Mass_flow_rate_over_Mach.png  used on
+ input line 396.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+ [16 <./propan_pow(1mol)/Thrust_over_Mach.png> <./propan_pow(1mol)/Efficiency_o
+ver_Mach.png>]
+<H2_pow(1mol)/Temperature_over_Mach.png, id=98, 462.528pt x 346.896pt>
+File: H2_pow(1mol)/Temperature_over_Mach.png Graphic file (type png)
+<use H2_pow(1mol)/Temperature_over_Mach.png>
+Package pdftex.def Info: H2_pow(1mol)/Temperature_over_Mach.png  used on input 
+line 402.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+<H2_pow(1mol)/Thrust_over_Mach.png, id=99, 462.528pt x 346.896pt>
+File: H2_pow(1mol)/Thrust_over_Mach.png Graphic file (type png)
+<use H2_pow(1mol)/Thrust_over_Mach.png>
+Package pdftex.def Info: H2_pow(1mol)/Thrust_over_Mach.png  used on input line 
+407.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+ [17 <./propan_pow(1mol)/Thrust_over_mass_flow_rate_over_Mach.png> <./propan_po
+w(1mol)/Mass_flow_rate_over_Mach.png>]
+<H2_pow(1mol)/Efficiency_over_Mach.png, id=105, 462.528pt x 346.896pt>
+File: H2_pow(1mol)/Efficiency_over_Mach.png Graphic file (type png)
+<use H2_pow(1mol)/Efficiency_over_Mach.png>
+Package pdftex.def Info: H2_pow(1mol)/Efficiency_over_Mach.png  used on input l
+ine 412.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+<H2_pow(1mol)/Thrust_over_mass_flow_rate_over_Mach.png, id=106, 462.528pt x 346
+.896pt>
+File: H2_pow(1mol)/Thrust_over_mass_flow_rate_over_Mach.png Graphic file (type 
+png)
+<use H2_pow(1mol)/Thrust_over_mass_flow_rate_over_Mach.png>
+Package pdftex.def Info: H2_pow(1mol)/Thrust_over_mass_flow_rate_over_Mach.png 
+ used on input line 417.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+ [18 <./H2_pow(1mol)/Temperature_over_Mach.png> <./H2_pow(1mol)/Thrust_over_Mac
+h.png>]
+<H2_pow(1mol)/Mass_flow_rate_over_Mach.png, id=113, 462.528pt x 346.896pt>
+File: H2_pow(1mol)/Mass_flow_rate_over_Mach.png Graphic file (type png)
+<use H2_pow(1mol)/Mass_flow_rate_over_Mach.png>
+Package pdftex.def Info: H2_pow(1mol)/Mass_flow_rate_over_Mach.png  used on inp
+ut line 422.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+ [19 <./H2_pow(1mol)/Efficiency_over_Mach.png> <./H2_pow(1mol)/Thrust_over_mass
+_flow_rate_over_Mach.png>]
+<metan(1mol)_etan(0.4mol)_pow/Temperature_over_Mach.png, id=119, 462.528pt x 34
+6.896pt>
+File: metan(1mol)_etan(0.4mol)_pow/Temperature_over_Mach.png Graphic file (type
+ png)
+<use metan(1mol)_etan(0.4mol)_pow/Temperature_over_Mach.png>
+Package pdftex.def Info: metan(1mol)_etan(0.4mol)_pow/Temperature_over_Mach.png
+  used on input line 428.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+<metan(1mol)_etan(0.4mol)_pow/Thrust_over_Mach.png, id=120, 462.528pt x 346.896
+pt>
+File: metan(1mol)_etan(0.4mol)_pow/Thrust_over_Mach.png Graphic file (type png)
+
+<use metan(1mol)_etan(0.4mol)_pow/Thrust_over_Mach.png>
+Package pdftex.def Info: metan(1mol)_etan(0.4mol)_pow/Thrust_over_Mach.png  use
+d on input line 433.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+<metan(1mol)_etan(0.4mol)_pow/Efficiency_over_Mach.png, id=121, 462.528pt x 346
+.896pt>
+File: metan(1mol)_etan(0.4mol)_pow/Efficiency_over_Mach.png Graphic file (type 
+png)
+<use metan(1mol)_etan(0.4mol)_pow/Efficiency_over_Mach.png>
+Package pdftex.def Info: metan(1mol)_etan(0.4mol)_pow/Efficiency_over_Mach.png 
+ used on input line 438.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+ [20 <./H2_pow(1mol)/Mass_flow_rate_over_Mach.png> <./metan(1mol)_etan(0.4mol)_
+pow/Temperature_over_Mach.png>]
+<metan(1mol)_etan(0.4mol)_pow/Thrust_over_mass_flow_rate_over_Mach.png, id=127,
+ 462.528pt x 346.896pt>
+File: metan(1mol)_etan(0.4mol)_pow/Thrust_over_mass_flow_rate_over_Mach.png Gra
+phic file (type png)
+<use metan(1mol)_etan(0.4mol)_pow/Thrust_over_mass_flow_rate_over_Mach.png>
+Package pdftex.def Info: metan(1mol)_etan(0.4mol)_pow/Thrust_over_mass_flow_rat
+e_over_Mach.png  used on input line 443.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+<metan(1mol)_etan(0.4mol)_pow/Mass_flow_rate_over_Mach.png, id=128, 462.528pt x
+ 346.896pt>
+File: metan(1mol)_etan(0.4mol)_pow/Mass_flow_rate_over_Mach.png Graphic file (t
+ype png)
+<use metan(1mol)_etan(0.4mol)_pow/Mass_flow_rate_over_Mach.png>
+Package pdftex.def Info: metan(1mol)_etan(0.4mol)_pow/Mass_flow_rate_over_Mach.
+png  used on input line 448.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+ [21 <./metan(1mol)_etan(0.4mol)_pow/Thrust_over_Mach.png> <./metan(1mol)_etan(
+0.4mol)_pow/Efficiency_over_Mach.png>]
+<Metan(2mol)_propan(1mol)_pow/Temperature_over_Mach.png, id=134, 462.528pt x 34
+6.896pt>
+File: Metan(2mol)_propan(1mol)_pow/Temperature_over_Mach.png Graphic file (type
+ png)
+<use Metan(2mol)_propan(1mol)_pow/Temperature_over_Mach.png>
+Package pdftex.def Info: Metan(2mol)_propan(1mol)_pow/Temperature_over_Mach.png
+  used on input line 454.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+<Metan(2mol)_propan(1mol)_pow/Thrust_over_Mach.png, id=135, 462.528pt x 346.896
+pt>
+File: Metan(2mol)_propan(1mol)_pow/Thrust_over_Mach.png Graphic file (type png)
+
+<use Metan(2mol)_propan(1mol)_pow/Thrust_over_Mach.png>
+Package pdftex.def Info: Metan(2mol)_propan(1mol)_pow/Thrust_over_Mach.png  use
+d on input line 459.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+ [22 <./metan(1mol)_etan(0.4mol)_pow/Thrust_over_mass_flow_rate_over_Mach.png> 
+<./metan(1mol)_etan(0.4mol)_pow/Mass_flow_rate_over_Mach.png>]
+<Metan(2mol)_propan(1mol)_pow/Efficiency_over_Mach.png, id=141, 462.528pt x 346
+.896pt>
+File: Metan(2mol)_propan(1mol)_pow/Efficiency_over_Mach.png Graphic file (type 
+png)
+<use Metan(2mol)_propan(1mol)_pow/Efficiency_over_Mach.png>
+Package pdftex.def Info: Metan(2mol)_propan(1mol)_pow/Efficiency_over_Mach.png 
+ used on input line 464.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+ [23 <./Metan(2mol)_propan(1mol)_pow/Temperature_over_Mach.png>]
+<Metan(2mol)_propan(1mol)_pow/Thrust_over_mass_flow_rate_over_Mach.png, id=146,
+ 462.528pt x 346.896pt>
+File: Metan(2mol)_propan(1mol)_pow/Thrust_over_mass_flow_rate_over_Mach.png Gra
+phic file (type png)
+<use Metan(2mol)_propan(1mol)_pow/Thrust_over_mass_flow_rate_over_Mach.png>
+Package pdftex.def Info: Metan(2mol)_propan(1mol)_pow/Thrust_over_mass_flow_rat
+e_over_Mach.png  used on input line 469.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+<Metan(2mol)_propan(1mol)_pow/Mass_flow_rate_over_Mach.png, id=147, 462.528pt x
+ 346.896pt>
+File: Metan(2mol)_propan(1mol)_pow/Mass_flow_rate_over_Mach.png Graphic file (t
+ype png)
+<use Metan(2mol)_propan(1mol)_pow/Mass_flow_rate_over_Mach.png>
+Package pdftex.def Info: Metan(2mol)_propan(1mol)_pow/Mass_flow_rate_over_Mach.
+png  used on input line 474.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+ [24 <./Metan(2mol)_propan(1mol)_pow/Thrust_over_Mach.png> <./Metan(2mol)_propa
+n(1mol)_pow/Efficiency_over_Mach.png>]
+<Wodor(0.5mol)_Etan(1mol)_pow/Temperature_over_Mach.png, id=154, 462.528pt x 34
+6.896pt>
+File: Wodor(0.5mol)_Etan(1mol)_pow/Temperature_over_Mach.png Graphic file (type
+ png)
+<use Wodor(0.5mol)_Etan(1mol)_pow/Temperature_over_Mach.png>
+Package pdftex.def Info: Wodor(0.5mol)_Etan(1mol)_pow/Temperature_over_Mach.png
+  used on input line 480.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+<Wodor(0.5mol)_Etan(1mol)_pow/Thrust_over_Mach.png, id=155, 462.528pt x 346.896
+pt>
+File: Wodor(0.5mol)_Etan(1mol)_pow/Thrust_over_Mach.png Graphic file (type png)
+
+<use Wodor(0.5mol)_Etan(1mol)_pow/Thrust_over_Mach.png>
+Package pdftex.def Info: Wodor(0.5mol)_Etan(1mol)_pow/Thrust_over_Mach.png  use
+d on input line 485.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+ [25 <./Metan(2mol)_propan(1mol)_pow/Thrust_over_mass_flow_rate_over_Mach.png> 
+<./Metan(2mol)_propan(1mol)_pow/Mass_flow_rate_over_Mach.png>]
+<Wodor(0.5mol)_Etan(1mol)_pow/Efficiency_over_Mach.png, id=161, 462.528pt x 346
+.896pt>
+File: Wodor(0.5mol)_Etan(1mol)_pow/Efficiency_over_Mach.png Graphic file (type 
+png)
+<use Wodor(0.5mol)_Etan(1mol)_pow/Efficiency_over_Mach.png>
+Package pdftex.def Info: Wodor(0.5mol)_Etan(1mol)_pow/Efficiency_over_Mach.png 
+ used on input line 490.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+
+[26 <./Wodor(0.5mol)_Etan(1mol)_pow/Temperature_over_Mach.png>]
+<Wodor(0.5mol)_Etan(1mol)_pow/Thrust_over_mass_flow_rate_over_Mach.png, id=166,
+ 462.528pt x 346.896pt>
+File: Wodor(0.5mol)_Etan(1mol)_pow/Thrust_over_mass_flow_rate_over_Mach.png Gra
+phic file (type png)
+<use Wodor(0.5mol)_Etan(1mol)_pow/Thrust_over_mass_flow_rate_over_Mach.png>
+Package pdftex.def Info: Wodor(0.5mol)_Etan(1mol)_pow/Thrust_over_mass_flow_rat
+e_over_Mach.png  used on input line 495.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+<Wodor(0.5mol)_Etan(1mol)_pow/Mass_flow_rate_over_Mach.png, id=167, 462.528pt x
+ 346.896pt>
+File: Wodor(0.5mol)_Etan(1mol)_pow/Mass_flow_rate_over_Mach.png Graphic file (t
+ype png)
+<use Wodor(0.5mol)_Etan(1mol)_pow/Mass_flow_rate_over_Mach.png>
+Package pdftex.def Info: Wodor(0.5mol)_Etan(1mol)_pow/Mass_flow_rate_over_Mach.
+png  used on input line 500.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+ [27 <./Wodor(0.5mol)_Etan(1mol)_pow/Thrust_over_Mach.png> <./Wodor(0.5mol)_Eta
+n(1mol)_pow/Efficiency_over_Mach.png>]
+<Propan(1mol)_wodor(0.1mol)_pow/Temperature_over_Mach.png, id=173, 462.528pt x 
+346.896pt>
+File: Propan(1mol)_wodor(0.1mol)_pow/Temperature_over_Mach.png Graphic file (ty
+pe png)
+<use Propan(1mol)_wodor(0.1mol)_pow/Temperature_over_Mach.png>
+Package pdftex.def Info: Propan(1mol)_wodor(0.1mol)_pow/Temperature_over_Mach.p
+ng  used on input line 506.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+<Propan(1mol)_wodor(0.1mol)_pow/Thrust_over_Mach.png, id=174, 462.528pt x 346.8
+96pt>
+File: Propan(1mol)_wodor(0.1mol)_pow/Thrust_over_Mach.png Graphic file (type pn
+g)
+<use Propan(1mol)_wodor(0.1mol)_pow/Thrust_over_Mach.png>
+Package pdftex.def Info: Propan(1mol)_wodor(0.1mol)_pow/Thrust_over_Mach.png  u
+sed on input line 511.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+ [28 <./Wodor(0.5mol)_Etan(1mol)_pow/Thrust_over_mass_flow_rate_over_Mach.png> 
+<./Wodor(0.5mol)_Etan(1mol)_pow/Mass_flow_rate_over_Mach.png>]
+<Propan(1mol)_wodor(0.1mol)_pow/Efficiency_over_Mach.png, id=180, 462.528pt x 3
+46.896pt>
+File: Propan(1mol)_wodor(0.1mol)_pow/Efficiency_over_Mach.png Graphic file (typ
+e png)
+<use Propan(1mol)_wodor(0.1mol)_pow/Efficiency_over_Mach.png>
+Package pdftex.def Info: Propan(1mol)_wodor(0.1mol)_pow/Efficiency_over_Mach.pn
+g  used on input line 516.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+ [29 <./Propan(1mol)_wodor(0.1mol)_pow/Temperature_over_Mach.png>]
+<Propan(1mol)_wodor(0.1mol)_pow/Thrust_over_mass_flow_rate_over_Mach.png, id=18
+5, 462.528pt x 346.896pt>
+File: Propan(1mol)_wodor(0.1mol)_pow/Thrust_over_mass_flow_rate_over_Mach.png G
+raphic file (type png)
+<use Propan(1mol)_wodor(0.1mol)_pow/Thrust_over_mass_flow_rate_over_Mach.png>
+Package pdftex.def Info: Propan(1mol)_wodor(0.1mol)_pow/Thrust_over_mass_flow_r
+ate_over_Mach.png  used on input line 521.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+<Propan(1mol)_wodor(0.1mol)_pow/Mass_flow_rate_over_Mach.png, id=186, 462.528pt
+ x 346.896pt>
+File: Propan(1mol)_wodor(0.1mol)_pow/Mass_flow_rate_over_Mach.png Graphic file 
+(type png)
+<use Propan(1mol)_wodor(0.1mol)_pow/Mass_flow_rate_over_Mach.png>
+Package pdftex.def Info: Propan(1mol)_wodor(0.1mol)_pow/Mass_flow_rate_over_Mac
+h.png  used on input line 526.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+
+[30 <./Propan(1mol)_wodor(0.1mol)_pow/Thrust_over_Mach.png> <./Propan(1mol)_wod
+or(0.1mol)_pow/Efficiency_over_Mach.png>]
+<Metan(1mol)_etan(0.4mol)_propan(0.2mol)_pow/Temperature_over_Mach.png, id=193,
+ 462.528pt x 346.896pt>
+File: Metan(1mol)_etan(0.4mol)_propan(0.2mol)_pow/Temperature_over_Mach.png Gra
+phic file (type png)
+<use Metan(1mol)_etan(0.4mol)_propan(0.2mol)_pow/Temperature_over_Mach.png>
+Package pdftex.def Info: Metan(1mol)_etan(0.4mol)_propan(0.2mol)_pow/Temperatur
+e_over_Mach.png  used on input line 532.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+<Metan(1mol)_etan(0.4mol)_propan(0.2mol)_pow/Thrust_over_Mach.png, id=194, 462.
+528pt x 346.896pt>
+File: Metan(1mol)_etan(0.4mol)_propan(0.2mol)_pow/Thrust_over_Mach.png Graphic 
+file (type png)
+<use Metan(1mol)_etan(0.4mol)_propan(0.2mol)_pow/Thrust_over_Mach.png>
+Package pdftex.def Info: Metan(1mol)_etan(0.4mol)_propan(0.2mol)_pow/Thrust_ove
+r_Mach.png  used on input line 537.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+ [31 <./Propan(1mol)_wodor(0.1mol)_pow/Thrust_over_mass_flow_rate_over_Mach.png
+> <./Propan(1mol)_wodor(0.1mol)_pow/Mass_flow_rate_over_Mach.png>]
+<Metan(1mol)_etan(0.4mol)_propan(0.2mol)_pow/Efficiency_over_Mach.png, id=200, 
+462.528pt x 346.896pt>
+File: Metan(1mol)_etan(0.4mol)_propan(0.2mol)_pow/Efficiency_over_Mach.png Grap
+hic file (type png)
+<use Metan(1mol)_etan(0.4mol)_propan(0.2mol)_pow/Efficiency_over_Mach.png>
+Package pdftex.def Info: Metan(1mol)_etan(0.4mol)_propan(0.2mol)_pow/Efficiency
+_over_Mach.png  used on input line 542.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+ [32 <./Metan(1mol)_etan(0.4mol)_propan(0.2mol)_pow/Temperature_over_Mach.png>]
+<Metan(1mol)_etan(0.4mol)_propan(0.2mol)_pow/Thrust_over_mass_flow_rate_over_Ma
+ch.png, id=205, 462.528pt x 346.896pt>
+File: Metan(1mol)_etan(0.4mol)_propan(0.2mol)_pow/Thrust_over_mass_flow_rate_ov
+er_Mach.png Graphic file (type png)
+<use Metan(1mol)_etan(0.4mol)_propan(0.2mol)_pow/Thrust_over_mass_flow_rate_ove
+r_Mach.png>
+Package pdftex.def Info: Metan(1mol)_etan(0.4mol)_propan(0.2mol)_pow/Thrust_ove
+r_mass_flow_rate_over_Mach.png  used on input line 547.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+<Metan(1mol)_etan(0.4mol)_propan(0.2mol)_pow/Mass_flow_rate_over_Mach.png, id=2
+06, 462.528pt x 346.896pt>
+File: Metan(1mol)_etan(0.4mol)_propan(0.2mol)_pow/Mass_flow_rate_over_Mach.png 
+Graphic file (type png)
+<use Metan(1mol)_etan(0.4mol)_propan(0.2mol)_pow/Mass_flow_rate_over_Mach.png>
+Package pdftex.def Info: Metan(1mol)_etan(0.4mol)_propan(0.2mol)_pow/Mass_flow_
+rate_over_Mach.png  used on input line 552.
+(pdftex.def)             Requested size: 323.9978pt x 243.01079pt.
+ [33 <./Metan(1mol)_etan(0.4mol)_propan(0.2mol)_pow/Thrust_over_Mach.png> <./Me
+tan(1mol)_etan(0.4mol)_propan(0.2mol)_pow/Efficiency_over_Mach.png>] [34 <./Met
+an(1mol)_etan(0.4mol)_propan(0.2mol)_pow/Thrust_over_mass_flow_rate_over_Mach.p
+ng> <./Metan(1mol)_etan(0.4mol)_propan(0.2mol)_pow/Mass_flow_rate_over_Mach.png
+>] [35] ("Projekt (1).aux") ) 
+Here is how much of TeX's memory you used:
+ 4701 strings out of 480934
+ 81245 string characters out of 2899917
+ 324683 words of memory out of 3000000
+ 20539 multiletter control sequences out of 15000+200000
+ 538445 words of font info for 44 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 48i,5n,46p,834b,1511s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\patry\AppData\Local\MiKTeX\2.9\fonts/pk
+/ljfour/jknappen/ec/dpi600\tcrm1095.pk><C:/Users/patry/AppData/Local/Programs/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/patry/AppData/Loc
+al/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/patr
+y/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb>
+<C:/Users/patry/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmex10.pfb><C:/Users/patry/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmmi10.pfb><C:/Users/patry/AppData/Local/Programs/MiKTeX 2.9/fon
+ts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/patry/AppData/Local/Programs/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/patry/AppData/Local
+/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/patry/A
+ppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/U
+sers/patry/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr
+6.pfb><C:/Users/patry/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmr8.pfb><C:/Users/patry/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmsy10.pfb><C:/Users/patry/AppData/Local/Programs/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmsy6.pfb>
+Output written on "Projekt (1).pdf" (36 pages, 895365 bytes).
+PDF statistics:
+ 266 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 226 words of extra memory for PDF output out of 10000 (max. 10000000)
+
